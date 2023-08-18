@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387641466022",
+    "project_id": "swikeynotes-flutter-project",
+    "storage_bucket": "swikeynotes-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387641466022:android:c29032c4b26b79fafe6867",
+        "android_client_info": {
+          "package_name": "com.swikey.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387641466022-lgm08pesrdn4rc6li9c1gpqrr9aho4oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWBlzl2jk4u4QvycaxJeGlHC0M9cKqZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387641466022-lgm08pesrdn4rc6li9c1gpqrr9aho4oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
